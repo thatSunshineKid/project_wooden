@@ -2,10 +2,10 @@
 
 "Success is peace of mind that is a direct result of self-satisfaction
 in knowing you did your best to become the best your are capable of
-becoming" - John Wooden
+becoming." - John Wooden
 
 The purpose of this application is to allow you to track the progress of
-whatever is important to you in our life, whether that be your family, 
+whatever is important to you in your life, whether that be your family, 
 your work, your hobbies, or your aspirations. I hope this allows you to 
 get closer to your goals than without it, as I am creating it to do the 
 same for mine.
